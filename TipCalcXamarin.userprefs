@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D1924DC0-F947-4D4C-87DC-0C6A33B0B298}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TipCalcXamarin/ViewModels/MainViewModel.cs" Line="92" Column="3" />
+      <File FileName="TipCalcXamarin/Views/MainView.xaml.cs" Line="14" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipCalcXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E6C4BCA-C8C7-41C1-BF06-E14B2996D362" />
+  <MultiItemStartupConfigurations />
+</Properties>
